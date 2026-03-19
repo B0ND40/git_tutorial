@@ -1,4 +1,4 @@
-THIS IS A MISTAKE. # I am adding more things to this code to see what happens if I commit again
+# I am adding more things to this code to see what happens if I commit again
 
 import numpy as np
 import matplotlib.pyplot as plt
